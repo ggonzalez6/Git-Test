@@ -1,1 +1,1 @@
-i plan to use the repo for practice with git.
+I plan to use the repo for practice with git.
